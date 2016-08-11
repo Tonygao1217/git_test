@@ -5,3 +5,4 @@ ceshi 工作区概念
 天加了一个branch test
 在master 上面修改文件`
 test 强制禁用快速合并模式
+添加了一个list分支的分支list_next
