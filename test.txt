@@ -6,3 +6,4 @@ ceshi 工作区概念
 在master 上面修改文件`
 test 强制禁用快速合并模式
 添加了一个list分支的分支list_next
+正在list 工作 为了测试stash
