@@ -1,3 +1,15 @@
-解决了bug
+<<<<<<< Updated upstream
 =======
+first hello world!
+ceshi 工作区概念
+测试git的管理的是修改
+添加master
+天加了一个branch test
+在master 上面修改文件`
+test 强制禁用快速合并模式
+add list 
+添加了一个list分支的分支list_next
+解决了冲突
+>>>>>>> Stashed changes
+解决了bug
 正在list 工作 为了测试stash
